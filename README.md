@@ -8,3 +8,24 @@ React frontend. There are 3 pages that each generate random data:
 	* **Required URL parameters**: count _int_
 3. /api/random/doubles : _Generates random doubles_
 	* **Required URL parameters**: count _int_
+
+## Build
+To build this application:
+
+`mvn package`
+
+## Deployment
+To deploy this application:
+
+Backend:
+
+`mvn spring-boot:run`
+
+or
+
+`java -jar spring-webapp-sample.jar`
+
+Frontend:
+
+`cd apps;
+npm start`
