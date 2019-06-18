@@ -27,5 +27,7 @@ or
 
 Frontend:
 
-`cd apps;
-npm start`
+```java
+cd app
+npm start
+```
