@@ -27,7 +27,7 @@ or
 
 Frontend:
 
-```java
+```bash
 cd app
 npm start
 ```
